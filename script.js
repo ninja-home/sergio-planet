@@ -3,7 +3,7 @@
 
   let metadata = {
     urls: {
-      github: 'https://github.com/ninja-home/sergio-planet',
+      github: 'https://github.com/hello-sergio/sergio-planet',
       sun: {
         surfaceMaterial: 'https://s3-us-west-2.amazonaws.com/s.cdpn.io/297733/sunSurfaceMaterial.jpg',
         atmosphereMaterial: 'https://s3-us-west-2.amazonaws.com/s.cdpn.io/297733/sunAtmosphereMaterial.png'
